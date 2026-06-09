@@ -124,16 +124,6 @@ The project includes several interactive visualizations via BERTopic and Plotly:
 - `visualize_distribution()` — topic distribution within a document
 - `visualize_topics_over_time()` — trends over time
 
-## Repository Structure
-
-```
-news-topic-modeling-and-trend-detection/
-├── README.md
-├── News_Topic_Modeling_and_Trend_Detection.ipynb
-└── data/
-    └── News_Category_Dataset_v3.json
-```
-
 ## Technologies
 
 - **Python**
