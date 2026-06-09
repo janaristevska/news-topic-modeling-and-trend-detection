@@ -13,7 +13,6 @@ Dataset: [News Category Dataset (HuffPost)](https://www.kaggle.com/datasets/rmis
 - [Usage](#usage)
 - [Results](#results)
 - [Visualizations](#visualizations)
-- [Repository Structure](#repository-structure)
 - [Technologies](#technologies)
 
 ## Overview
